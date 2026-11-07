@@ -47,5 +47,4 @@ dna-toolkit/
 - Pairwise sequence alignment (Needleman-Wunsch)
 - Fetch sequences directly from NCBI
 
-## Author
-Vighnesh Gaikwad — MSc Bioinformatics
+
