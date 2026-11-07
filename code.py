@@ -1,14 +1,3 @@
-"""
-DNA Sequence Analysis Toolkit
------------------------------
-Basic bioinformatics utilities: FASTA parsing, GC content, reverse complement,
-transcription, translation and ORF finding. Pure Python, no dependencies.
-
-Usage:
-    python dna_toolkit.py sample.fasta
-    python dna_toolkit.py sample.fasta --min-orf 30
-"""
-
 import argparse
 from collections import Counter
 
